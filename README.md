@@ -1,1 +1,1 @@
-# tool_project
+# Learn and practice JS
