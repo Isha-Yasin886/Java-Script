@@ -13,6 +13,12 @@ console.log("Hey isha!");
 // solve();
 // console.log(age);
 
-var x = 10;
-var x = 20;
-console.log(x);
+// var x = 10;
+// var x = 20;
+// console.log(x);
+// let val = null;
+// console.log(val);
+
+const mySymbol = Symbol();
+
+console.log(mySymbol);
