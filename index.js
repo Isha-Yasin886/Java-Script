@@ -19,6 +19,34 @@ console.log("Hey isha!");
 // let val = null;
 // console.log(val);
 
-const mySymbol = Symbol();
+// const mySymbol = Symbol();
 
-console.log(mySymbol);
+// console.log(mySymbol);
+// let a = 4;
+// let b = 3;
+// console.log(a);
+// console.log(b);
+
+
+// ```
+// let x = "10";
+// console.log(typeof(x));        // string
+
+// let y = 10;
+// console.log(typeof(y));         // number
+
+// console.log(x == y);            // true //loose
+
+// console.log(x === y);           // false //strict
+
+
+// ```
+// let x = true;
+// let y = false;
+// let z= true;
+// console.log(x||y); 
+// console.log(x||z);  
+// let first = "isha";
+// let second = "Yasin";
+// let full = first + " " + second;
+// console.log(full);
