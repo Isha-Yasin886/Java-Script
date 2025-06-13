@@ -14,7 +14,23 @@ console.log("Loops learn");
 //     }
 // }
 
+// While loop
 
-// for(;;){
-   
-// }
+// let i = 1;
+//     while(i<=5){
+//     if(i==3){
+//         i++;
+//         continue;
+//     }
+//     else{
+//         console.log(i);
+//     }
+//     i++;
+//     }
+
+let i=1;
+do{
+    console.log(i);
+    i++;
+}
+while(i<=4);
